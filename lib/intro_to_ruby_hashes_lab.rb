@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {ash_ketchum: pikachu}
+  {satoshi: pikachu}
 end
 
 def pioneer
